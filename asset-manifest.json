@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Dates-reminder/static/css/main.962477f9.css",
+    "main.js": "/Dates-reminder/static/js/main.c7017a61.js",
+    "static/js/787.b50c84d7.chunk.js": "/Dates-reminder/static/js/787.b50c84d7.chunk.js",
+    "static/media/download.jpg": "/Dates-reminder/static/media/download.2d8708a12e06cf08abaf.jpg",
+    "index.html": "/Dates-reminder/index.html",
+    "main.962477f9.css.map": "/Dates-reminder/static/css/main.962477f9.css.map",
+    "main.c7017a61.js.map": "/Dates-reminder/static/js/main.c7017a61.js.map",
+    "787.b50c84d7.chunk.js.map": "/Dates-reminder/static/js/787.b50c84d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.962477f9.css",
+    "static/js/main.c7017a61.js"
+  ]
+}
